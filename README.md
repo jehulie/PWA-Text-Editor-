@@ -23,7 +23,9 @@ This is a simple text editor that runs in the browser. The application meets PWA
 
 * Data persistence: when the user reloads the page, the text typed and saved on the interface persists.
 
-* The application can be downloaded via the Install button or the icon for downloading on the browser - thereby ensuring seamless user experience between online and offline funcitonality.
+* The application can be downloaded via the Install button or the icon for downloading on the browser - thereby ensuring seamless user experience between online and offline functionality.
+
+![PWA Text Editor](./Assets/PWA%20Text%20Editor.gif)
 
 
 ---
